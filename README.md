@@ -2,8 +2,8 @@
 
 ## Input Graph (A being Source and C being Destination)
 
-![](/Users/ayaan/Documents/Python/DijkstraShortestPathAlgorithm-Python/READMEAssets/inputgraph.png)
+![](READMEAssets/inputgraph.png)
 
 ## Output Path
 
-![](/Users/ayaan/Documents/Python/DijkstraShortestPathAlgorithm-Python/READMEAssets/outputpath.png)
+![](READMEAssets/outputpath.png)
